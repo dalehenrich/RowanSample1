@@ -1,5 +1,5 @@
-Extension { #name : 'SimpleHybridNormalReload' }
+Extension { #name : 'RowanSample1' }
 
-{ #category : '*hybrid-patch-extensions' }
+{ #category : '*rowansample1-extensions' }
 SimpleHybridNormalReload class >> bar [ ^'bar'
 ]

@@ -1,7 +1,7 @@
 Class {
-	#name : 'SimpleHybridNormalReload',
+	#name : 'RowanSample1',
 	#superclass : 'Object',
-	#category : 'Hybrid-Patch-Core'
+	#category : 'RowanSample1-Core'
 }
 
 { #category : 'accessing' }
