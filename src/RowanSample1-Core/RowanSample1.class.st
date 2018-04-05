@@ -5,5 +5,5 @@ Class {
 }
 
 { #category : 'accessing' }
-SimpleHybridNormalReload >> foo [ ^'foo'
+ RowanSample1>> foo [ ^'foo'
 ]
