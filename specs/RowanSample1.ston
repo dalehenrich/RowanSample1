@@ -16,6 +16,7 @@
 	#packageNamesInLoadOrder : [
 		'RowanSample1-Core',
 		'RowanSample1-Extensions',
-		'RowanSample1-Tests'
+		'RowanSample1-Tests',
+		'BaselineOfRowanSample1'
 	]
 }
