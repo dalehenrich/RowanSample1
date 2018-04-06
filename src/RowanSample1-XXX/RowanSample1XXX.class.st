@@ -4,7 +4,7 @@ Class {
 	#category : 'RowanSample1-XXX'
 }
 
-{ #category : '*rowansample1-xxx' }
+{ #category : 'accessing' }
 RowanSample1XXX >> xxx [
 
 	^ RowanSample1XXX new
