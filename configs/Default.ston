@@ -1,0 +1,9 @@
+RwProjectConfiguration {
+	#name : 'Default',
+	#projectName : 'RowanSample1',
+	#configNames : Set [
+		'RowanSample1-Core',
+		'RowanSample1-Extensions',
+		'RowanSample1-Tests'
+	]
+}
