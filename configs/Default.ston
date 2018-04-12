@@ -1,9 +1,10 @@
 RwProjectConfiguration {
 	#name : 'Default',
-	#projectName : 'RowanSample1',
 	#configNames : Set [
 		'RowanSample1-Core',
 		'RowanSample1-Extensions',
+		'RowanSample1-XXX',
 		'RowanSample1-Tests'
-	]
+	],
+	#comment : 'standard config for RowanSample1. The BaselineOfRowanSample1 package should not be loaded.'
 }
