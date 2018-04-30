@@ -10,7 +10,7 @@
 		#committish : 'sample',
 		#committishType : 'branch'
 	},
-	#configPath : 'rowan/configs',
+	#configsPath : 'rowan/configs',
 	#repoPath : 'rowan/src',
 	#specsPath : 'rowan/specs',
 	#comment : 'Sample project to be used as an example project when first getting started with Jadeite and Rowan.'
