@@ -15,3 +15,17 @@ RowanSample1Test >> test2 [
 
 	self assert: RowanSample1 bar = 'bar'
 ]
+
+{ #category : 'tests' }
+RowanSample1Test >> testError [
+
+	self assert: RowanSample1 new bar = 'bar'
+
+]
+
+{ #category : 'tests' }
+RowanSample1Test >> testFailure [
+
+	self assert: RowanSample1 new foo = 'bar'
+
+]
