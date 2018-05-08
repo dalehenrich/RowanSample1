@@ -26,6 +26,6 @@ RowanSample1Test >> testError [
 { #category : 'tests' }
 RowanSample1Test >> testFailure [
 
-	self assert: RowanSample1 new foo = 'bar'
+	self assert: RowanSample1 new foo = 'foo'
 
 ]
