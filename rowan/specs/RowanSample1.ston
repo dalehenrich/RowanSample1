@@ -1,8 +1,8 @@
- RwComponentSpecification {
+RwComponentSpecification {
 	#specName : 'RowanSample1',
 	#comment : 'standard load spec',
 	#version : '0.3.0',
-	#projectUrl : '',
+	#projectUrl : 'https://github.com/dalehenrich/RowanSample1',
 	#configsPath : 'rowan/components',
 	#specsPath : 'rowan/specs',
 	#repoSpec : RwGitRepositorySpecification {
