@@ -1,12 +1,22 @@
- RwSimpleProjectSpecification{
+ RwComponentSpecification {
 	#specName : 'RowanSample1',
-	#projectUrl : 'https://github.com/dalehenrich/RowanSample1',
+	#comment : 'standard load spec',
+	#version : '0.3.0',
+	#projectUrl : '',
+	#configsPath : 'rowan/components',
+	#specsPath : 'rowan/specs',
 	#repoSpec : RwGitRepositorySpecification {
-		#committish : 'sample',
+		#committish : 'masterV2.0',
 		#committishType : 'branch'
 	},
-	#configsPath : 'rowan/configs',
 	#repoPath : 'rowan/src',
-	#specsPath : 'rowan/specs',
-	#comment : 'Sample project to be used as an example project when first getting started with Jadeite and Rowan.'
+	#defaultConfigurationNames : [
+		'Core'
+	],
+	#defaultGroupNames : [
+		'core',
+		'tests'
+	],
+	#projectsPath : 'rowan/projects',
+	#defaultComponentName : 'Core'
 }
