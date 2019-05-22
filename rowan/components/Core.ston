@@ -31,5 +31,8 @@ RwComponentLoadConfiguration {
 			'core'
 		],
 		'core' : [ ]
-	}
+	},
+	#projectNames : [
+		'RowanSample2'
+	]
 }
