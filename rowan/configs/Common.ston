@@ -1,9 +1,0 @@
-RwProjectCompoundConfiguration{
-	#name : 'Common',
-	#packageNames : [
-		'RowanSample1-Core',
-		'RowanSample1-Extensions'
-	],
-	#configurationNames : [ ],
-	#comment : 'Platform independent packages, that should always be loaded together.'
-}
