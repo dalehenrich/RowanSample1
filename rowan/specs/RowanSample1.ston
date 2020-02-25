@@ -1,0 +1,19 @@
+RwLoadSpecificationV2 {
+	#specName : 'RowanSample1',
+	#projectName : 'RowanSample1',
+	#gitUrl : 'https://github.com/dalehenrich/RowanSample1',
+	#revision : 'sample_v2',
+	#projectSpecFile : 'rowan/project.ston',
+	#componentNames : [
+		'Core'
+	],
+	#platformProperties : {
+		'gemstone' : {
+			'allusers' : {
+				#defaultUseSessionMethodsForExtensions : false,
+				#defaultSymbolDictName : 'SampleSymbolDict'
+			}
+		}
+	},
+	#comment : 'standard load spec'
+}
